@@ -1,35 +1,20 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+## Mateo Cimmino
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola, mi nombre es **Mateo Cimmino**, estudio la Tecnicatura en Progamación de la *UNAHUR* hace casi dos años y me siento muy cómodo en ella.
+Un amigo me recomendó seguir esta carrera, y después de investigar un poco acerca de ella decidí anotarme. Además, soy usuario de *computadoras* desde muy chico, por lo que generalmente los temas relacionados a ellas se me dan con más facilidad que otras cosas.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Trabajé en un **taller de carpintería** durante tres años, pero por conflictos laborales entre mis jefes tuve que dejar el trabajo. Hace poco conseguí un nuevo empleo como Encuestador Municipal en la Encuesta de Hogares y Empleos realizada en San Martín y otros partidos. Esto me ayuda mucho para poder cubrir mis gastos y seguir estudiando.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+A medida que avanza la carrera, siento que me gusta incluso más, ya que comienza a meterse en cosas más puras de la programación y herramientas que vamos a utilizar en nuestro futuro trabajo como desarrolladores. Sin embargo, tengo que admitir que el avance de las **Inteligencias Artificiales** me hace dudar sobre la proyección al futuro de esta rama de estudio, pero confío en que el "toque humano" prevalezca sobre la excelencia de las máquinas. 
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+## Mis gustos
+* **Música**: Paso la mayoría del día escuchando música. Mi gusto es muy variado, disfruto escuchar muchos generos distintos y hay pocos que no me gusten, aunque mi favorito es el rap, tanto en español como en inglés.
+* **Gatos**: Hace cinco años adopté un gato de la calle, y desde ese día me enamoré de esta especie. Si bien hay casos en que los gatos son bastante ariscos e independientes, tuve la suerte de que me toque uno muy cariñoso (a veces excesivamente) y que no se despega de mi un segundo.
+![](./assets/20231226_172638.jpg)
+* **Ajedrez**: Recientemente adquirí un inesperado interés por el ajedrez, algo que no pensé que fuera a gustarme nunca en mi vida, pero le encuentro algo entretenido en la complejidad de sus movimientos, y me parece fascinante como cometer un simple error puede ser la diferencia entre una partida ganada y una perdida.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Redes sociales
+- [Instagram](https://www.instagram.com/_mateocimmino/)
+- [LinkedIn](www.linkedin.com/in/mateo-cimmino-9aba5624a/)
